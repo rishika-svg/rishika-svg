@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishika Jain</h1>
 <h3 align="center">Student | Data Science | Machine Learning | Deep Learning</h3>
 
-- 🌱 I’m currently learning **Data Analytics & Machine Learning**
+- 🌱 I’m currently learning **Data Analytics , Machine Learning & Deep Learning **
 
 - 💬 Ask me about **Python, SQL, Machine Learning & Deep Learning**
 
