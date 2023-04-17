@@ -1,3 +1,5 @@
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=Black)]
+
 <h1 align="center">Hi 👋, I'm Rishika Jain</h1>
 <h3 align="center">🌎 Global data citizen | 🧑‍💻 Skilled in data cleaning and preprocessing | 📊 Proficient in Tableau and Excel | 🚀 Passionate about using data to make a positive impact on the world | 📚 Always seeking to expand data skills and knowledge</h3>
 
