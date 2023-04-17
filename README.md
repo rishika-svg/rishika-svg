@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishika-svg&label=Profile%20views&color=0e75b6&style=flat" alt="rishika-svg" /> </p>
 
-<p align="left"> <a href="https://github.com/rishika-svg/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishika-svg" alt="rishika-svg" /></a> </p>
-
 - 🔭 I’m currently working on **Deep Learning Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rishika-svg](https://github.com/rishika-svg)
