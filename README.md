@@ -1,9 +1,11 @@
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=Black)
 
 <h1 align="center">Hi 👋, I'm Rishika Jain</h1>
-<h3 align="center">🌎 Global data citizen | 🧑‍💻 Skilled in data cleaning and preprocessing | 📊 Proficient in Tableau and Excel | 🚀 Passionate about using data to make a positive impact on the world | 📚 Always seeking to expand data skills and knowledge </h3>
+<h3 align="center">🌎 Global data citizen | 🧑‍💻 Skilled in data cleaning and preprocessing | 📊 Proficient in Tableau and Excel | 🚀 Passionate about using data to make a positive impact on the world | 📚 Always seeking to expand data skills and knowledge</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishika-svg&label=Profile%20views&color=0e75b6&style=flat" alt="rishika-svg" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishika-svg" alt="rishika-svg" /></a> </p>
 
 - 🔭 I’m currently working on **Deep Learning Project**
 
